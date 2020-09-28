@@ -1,0 +1,11 @@
+rect 20 20 -5 1 true true 50 80 255 255 0 0 0 255 0
+rect 120 20 5 -1 false false 80 50 255 0 255 0 0 128
+square 220 20 1 -2 true true 50 0 0 0 0 255 0 255
+oval 320 20 3 3 false false 50 80 80 80 80 0
+square 20 120 -1 2 false false 50 0 0 0 2000
+circle 220 120 0 5 false false 80 0 0 255 2000
+circle 120 120 5 0 true true 70 0 255 0 2000 0 0 255
+oval 320 120 -3 -3 true true 80 50 100 100 100 2000 255 0 0
+text I_LOVE_JAVA 300 200 -2 -2 true true 100 255 0 0 2000 0 0 255
+text COURSEWORK 350 220 -2 -2 true false 80 100 100 100 2000
+
